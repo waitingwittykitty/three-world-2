@@ -1,17 +1,8 @@
 {
-  "name": "@threed/threed-garden",
+  "name": "three-world",
   "version": "0.8.0",
-  "description": "ThreeD Garden on React using NextJS and Farmbot Ruby/JS as a WP Plugin",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/marty-mcgee/threed-garden.git"
-  },
-  "author": "Marty McGee, Company Juice",
+  "description": "Three World on NextJS",
   "license": "GPL-3.0",
-  "bugs": {
-    "url": "https://github.com/marty-mcgee/threed-garden/issues/"
-  },
-  "homepage": "https://github.com/marty-mcgee/threed-garden/#readme",
   "private": true,
   "workspaces": {
     "packages": [
@@ -112,8 +103,6 @@
     "nuxt",
     "ethereum",
     "farmbot",
-    "farmbot.eth",
-    "threedgarden",
-    "threedgarden.eth"
+    "farmbot.eth"
   ]
 }
